@@ -11,6 +11,8 @@
 - ```uv add langchain-openai``` 
 - ```uv add langchain_openai```
 - ```uv add langchain-core```
+- ```git fetch --all```
+- ```git branch -a```
 
 ## Comparison Table
 
