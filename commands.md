@@ -11,6 +11,8 @@
 - ```uv add langchain-openai``` 
 - ```uv add langchain_openai```
 - ```uv add langchain-core```
+- ```git fetch --all``` --> this will help in getting all the repos from github
+- ```git branch -a``` --> this will show the list 
 
 ## Comparison Table
 
